@@ -1,4 +1,4 @@
-function a() {
+function() {
 
     const url = prompt("Enter URL of the source to be cited:");
 
